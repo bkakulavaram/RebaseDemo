@@ -6,5 +6,6 @@ public class HelloWorld {
     
         System.out.println("feature branch added");
         System.out.println("master changed by another branch");
+        System.out.println("added for jenkins");
     }
 }
