@@ -9,7 +9,7 @@ public class HelloWorld {
     
         System.out.println("feature branch added");
         System.out.println("master changed by another branch");
-        System.out.println("added for jenkinsssssssssssss");
+        Systemmm.out.println("added for jenkinsssssssssssss");
 Logger logger=Logger.getLogger("Hello world") ;
 logger.info("this is my log message");
     }
